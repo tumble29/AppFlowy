@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(appflowy_flutter LANGUAGES CXX)
+project(LecleNote LANGUAGES CXX)
 
-set(BINARY_NAME "AppFlowy")
+set(BINARY_NAME "LecleNote")
 
 cmake_policy(SET CMP0063 NEW)
 
